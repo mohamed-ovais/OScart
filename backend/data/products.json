@@ -1,0 +1,124 @@
+[
+    {
+        "name": "oppo F21s",
+        "price": 300,
+        "description": "oppo mobile phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "oppo M21s",
+        "price": 400,
+        "description": "oppo mobile phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "vivo",
+        "price": 350,
+        "description": "oppo mobimle phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "watch",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "samsung",
+        "price": 500,
+        "description": "oppo mobimle phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "realme",
+        "price": 450,
+        "description": "oppo mobimle phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "redmi",
+        "price": 400,
+        "description": "oppo mobimle phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "redmi",
+        "price": 400,
+        "description": "oppo mobimle phone 5g powerfull device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 5,
+        "numofReviews": 15,
+        "reviews": []
+    }
+]
